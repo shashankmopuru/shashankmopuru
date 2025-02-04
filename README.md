@@ -47,6 +47,7 @@
 
 ## 📜 Certifications
 - 🎓 **NPTEL: Programming in Java (IIT Madras)**
+- 🎓 **NPTEL: Introduction to Machine Learning (IIT Madras)**
 - 🖼 **Digital Image Processing (Great Learning)**
 - 🤖 **Computer Vision Essentials (Great Learning)**
 - ☁ **AWS Academy Machine Learning Foundations & Cloud Foundations**
